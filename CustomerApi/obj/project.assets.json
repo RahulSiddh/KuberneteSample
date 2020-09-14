@@ -12610,11 +12610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_KubernetesPractice\\_customerApi\\CustomerApi\\CustomerApi.csproj",
+      "projectUniqueName": "C:\\_KubernetesPractice\\_gitRep\\KuberneteSample\\CustomerApi\\CustomerApi.csproj",
       "projectName": "CustomerApi",
-      "projectPath": "C:\\_KubernetesPractice\\_customerApi\\CustomerApi\\CustomerApi.csproj",
+      "projectPath": "C:\\_KubernetesPractice\\_gitRep\\KuberneteSample\\CustomerApi\\CustomerApi.csproj",
       "packagesPath": "C:\\Users\\Rahul_kumar24\\.nuget\\packages\\",
-      "outputPath": "C:\\_KubernetesPractice\\_customerApi\\CustomerApi\\obj\\",
+      "outputPath": "C:\\_KubernetesPractice\\_gitRep\\KuberneteSample\\CustomerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

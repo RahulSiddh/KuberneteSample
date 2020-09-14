@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerApi", "CustomerApi.csproj", "{3DCE4B05-E792-4A75-AD41-02558E3D90A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerApi", "CustomerApi.csproj", "{3DCE4B05-E792-4A75-AD41-02558E3D90A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItem", "SolutionItem", "{70617928-9453-42D7-A19B-91C52A8F35AB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitlab-ci.yml = .gitlab-ci.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
