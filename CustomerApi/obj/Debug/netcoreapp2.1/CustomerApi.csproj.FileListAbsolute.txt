@@ -1,0 +1,15 @@
+C:\_KubernetesPractice\_customerApi\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.deps.json
+C:\_KubernetesPractice\_customerApi\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.runtimeconfig.json
+C:\_KubernetesPractice\_customerApi\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.runtimeconfig.dev.json
+C:\_KubernetesPractice\_customerApi\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.dll
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.csproj.CoreCompileInputs.cache
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.RazorAssemblyInfo.cache
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.RazorAssemblyInfo.cs
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.AssemblyInfoInputs.cache
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.AssemblyInfo.cs
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.RazorTargetAssemblyInfo.cache
+C:\_KubernetesPractice\_customerApi\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.pdb
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.dll
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.pdb
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.csprojAssemblyReference.cache
+C:\_KubernetesPractice\_customerApi\CustomerApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
